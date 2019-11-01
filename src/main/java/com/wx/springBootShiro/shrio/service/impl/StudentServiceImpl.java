@@ -3,8 +3,8 @@ package com.wx.springBootShiro.shrio.service.impl;
 import com.wx.springBootShiro.shrio.mapper.StudentMapper;
 import com.wx.springBootShiro.shrio.model.pojo.Student;
 import com.wx.springBootShiro.shrio.service.IStudentService;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
